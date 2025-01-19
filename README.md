@@ -49,7 +49,7 @@
      - Models performance metrics and a final chosen model.
      
 
-### 5. **Activity and Workshop Recommendations:**
+### 5. **Activity and Project preparation:**
    - Throughout this project:
      - Internal Workshops: Organize workshops before each major task to align understanding and discuss techniques.
      - Study Groups: Encourage team members to share ideas, new machine learning trends, and relevant insights.
