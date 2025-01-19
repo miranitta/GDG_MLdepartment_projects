@@ -7,7 +7,7 @@ We are a group of passionate individuals dedicated to gain knowledge in Machine 
 Our goal is to learn, collaborate, and build impactful projects that address real-world problems.
 
 ## 📂 Repository Contents
-- ** This repository is meant to serve as a tutorial for people trying to break into Machine Learning.
+- **This repository is meant to serve as a tutorial for people trying to break into Machine Learning.**
 - projects: Contains the projects notebooks of each members.
 📜 Current Projects
 1. [PCOS Prediction]
