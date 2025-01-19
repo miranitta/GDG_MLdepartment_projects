@@ -16,8 +16,7 @@ Status: Ongoing
 ## 🎓 Learning and Development
 We believe in continuous learning!
 - Here’s what we offer:
-
- - **Workshops:** Hands-on sessions on Machine Learning news and practices .
- - **Resources:** Access to guides, cheat sheets, and tutorials.
- - **Quizzes:** Test our knowledge for future improvements.
+  - **Workshops:** Hands-on sessions on Machine Learning news and practices .
+  - **Resources:** Access to guides, cheat sheets, and tutorials.
+  - **Quizzes:** Test our knowledge for future improvements.
 
