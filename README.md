@@ -5,8 +5,8 @@
 
 ### 1. **Source of Data:**
    - The PCOS datasets are from Kaggle and include the following:
-     - [PCOS_data_without_infertility](https://www.kaggle.com/code/psvenom/pcos-a-guide-to-practical-machine-learning-93-5?select=PCOS_data_without_infertility.xlsx)
-     - [PCOS_infertility](https://www.kaggle.com/code/psvenom/pcos-a-guide-to-practical-machine-learning-93-5?select=PCOS_infertility.csv)
+     - [PCOS_data_without_infertility](https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos?select=PCOS_data_without_infertility.xlsx)
+     - [PCOS_infertility](https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos?select=PCOS_infertility.csv)
      - [PCOS_survey](https://www.kaggle.com/datasets/sahilkoli04/pcos2023?select=CLEAN-+PCOS+SURVEY+SPREADSHEET.csv)
 
 
