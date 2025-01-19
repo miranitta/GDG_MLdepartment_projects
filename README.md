@@ -1,6 +1,6 @@
 # GDG_MLdepartment_projects
 
-Welcome to the [Club Name] GitHub repository! This repository is dedicated to showcasing our club activities, projects, and collaborative efforts.
+Welcome to the GDG on campus ESPRIT GitHub repository! This repository is dedicated to showcasing our Machine Learning department activities, projects, and collaborative efforts.
 
 ## 🚀About Us
 We are a group of passionate individuals dedicated to gain knowledge in Machine Learning field. 
