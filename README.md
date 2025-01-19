@@ -20,7 +20,7 @@
      - Removing or correcting outliers, if they are errors or irrelevant.
      - Dealing with inconsistent formatting by Standardize and format categorical and numerical variables.
 
-    **Output:**
+   - **Output:**
       - Cleaned datasets ready for analysis. 
 
 ### 3. **Exploratory Data Analysis:**
@@ -29,7 +29,7 @@
      - Create Visualizations to explore data distributions and correlations.
      - Analyze relationships between key variables. 
 
-    **Output:** 
+   - **Output:** 
       - A report summarizing key insights.
 
 ### 4.**Data Transformation:**
@@ -37,7 +37,7 @@
      - Transform categorial features to numerical features.
      - Feature engineering (transform raw data into relevant information).
 
-    **Output:**
+   - **Output:**
      - A well-prepared dataset ready for machine learning modeling.
 
 ### 4. **Machine Learning Models:**
@@ -45,7 +45,7 @@
      - Experiment with different algorithms.
      - Evaluate models using metrics.
 
-    **Output:** 
+   - **Output:** 
      - Models performance metrics and a final chosen model.
      
 
